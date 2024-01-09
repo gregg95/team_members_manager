@@ -1,0 +1,4 @@
+{
+  "apiUrl": "https://localhost:44377/api",
+  "photosUrl": "https://localhost:44377/photos"
+}
