@@ -1,4 +1,4 @@
-###Web client for team memeber managing application
+### Web client for team memeber managing application
 
 # Getting Started with Create React App
 
